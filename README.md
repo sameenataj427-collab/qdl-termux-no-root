@@ -56,5 +56,7 @@ chmod +x setup.sh
 ```bash
 ./qdl
 ```
+# credits
+the original file is from repair a2z, i just patched all the glitches it had after the new updates 
 
 For suggestions and bug reports please contact on sameenataj427@gmail.com. thank you
