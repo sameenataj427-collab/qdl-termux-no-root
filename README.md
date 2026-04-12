@@ -19,7 +19,7 @@ fastboot oem edl
 9. Im not responsible for any damages or bricked phones, use this at your own risk
 10. After the phone is in edl, run **./qdl** in the termux-qdl-ni-root folder after running **chmod +x qdl**
 11. Then a termux-api popup will appear asking to allow access to the usb device, tap OK, and a text will apper showing the structure of the final flash command
-12. Here is a [vidio](https://drive.google.com/file/d/1br08cobXPuxwtoIugEmmC6frifoYrG52/view) showing how to make the final command, use this video to make the command, video credit goes to **repair a2z**
+12. Here is a [vidio](https://drive.google.com/file/d/1br08cobXPuxwtoIugEmmC6frifoYrG52/preview) showing how to make the final command, use this video to make the command, video credit goes to **repair a2z**
 13. After the command it made, execute it in the termux, make sure that you are in the termux-qdl-no-root folder
 14. Then the script will handal the rest
 
