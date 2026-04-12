@@ -3,7 +3,7 @@
 
 **QDL-Termux** is a 100% Non-Root tool for flashing Qualcomm devices in **EDL 9008 Mode** using Termux and an OTG cable. No PC or Root access required.
 
-# steps kn how to use the tool
+# steps on how to use the tool
 
 1. First install and setup the tool from the steps below
 2. Then reboot you target phone in to fastboot mode
