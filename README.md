@@ -42,7 +42,7 @@ pkg update && pkg upgrade -y
 pkg install git -y
 ```
 ```bash
-git clone [https://github.com/YOUR_USERNAME/qdl-termux-no-root](https://github.com/YOUR_USERNAME/qdl-termux-no-root)
+git clone https://github.com/sameenataj427-collab/qdl-termux-no-root/tree/main
 ```
 ```bash
 cd qdl-termux-no-root
