@@ -26,7 +26,7 @@ fastboot oem edl
 ---
 
 ## 🛠️ Installation & Setup
-```Install``` [termux](https://f-droid.org/repo/com.termux_1022.apk) ```&``` [Termux-api](https://f-droid.org/repo/com.termux.api_1001.apk) ```apk Android 13 and lower Device```
+```Install``` [termux](https://f-droid.org/repo/com.termux_1022.apk) ```&``` [Termux-api]([https://f-droid.org/repo/com.termux.api_1001.apk](https://f-droid.org/repo/com.termux.api_1002.apk)) ```apk Android 13 and lower Device```
 
 Follow these steps exactly to install and fix library errors automatically:
 
