@@ -53,6 +53,7 @@ chmod +x setup.sh
 ```bash
 chmod +x qdl
 ```
+```bash
 ./setup.sh
 ```
 ```bash
