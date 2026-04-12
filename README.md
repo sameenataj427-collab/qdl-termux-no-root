@@ -38,7 +38,7 @@ termux-setup-storage
 pkg update && pkg upgrade -y
 ```
 # Install the tool and run the tool
-"bash
+```bash
 pkg install git -y
 ```
 ```bash
