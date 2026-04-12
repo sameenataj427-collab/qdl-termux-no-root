@@ -51,9 +51,6 @@ cd qdl-termux-no-root
 chmod +x setup.sh
 ```
 ```bash
-chmod +x qdl
-```
-```bash
 ./setup.sh
 ```
 ```bash
