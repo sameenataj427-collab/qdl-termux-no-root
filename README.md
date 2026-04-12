@@ -28,7 +28,13 @@ fastboot oem edl
 ## 🛠️ Installation & Setup
 Follow these steps exactly to install and fix library errors automatically:
 
+# Give termux storage permission
 ```bash
+termux-setup-storage
+```
+```bash
+```bash
+# Install the necessary tools
 pkg install git -y
 git clone [https://github.com/YOUR_USERNAME/qdl-termux-no-root](https://github.com/YOUR_USERNAME/qdl-termux-no-root)
 cd qdl-termux-no-root
