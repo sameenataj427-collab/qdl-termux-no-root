@@ -26,19 +26,37 @@ fastboot oem edl
 ---
 
 ## 🛠️ Installation & Setup
-```Install``` [termux](https://f-droid.org/repo/com.termux_1022.apk) ```&``` [Termux-api]([https://f-droid.org/repo/com.termux.api_1001.apk](https://f-droid.org/repo/com.termux.api_1002.apk) ```apk Android 13 and lower Device```
 
 Follow these steps exactly to install and fix library errors automatically:
+Install Termux and Termux:api from GitHub or Fdroid, don't ise Termux from playstore, its an older version and laks the nassacary pakages needed for the tool
 
-# Give termux storage permission
+# Give termux storage permission and update packages
 ```bash
 termux-setup-storage
 ```
 ```bash
-```bash
-# Install the necessary tools
+pkg update && pkg upgrade -y
+```
+# Install the tool and run the tool
+"bash
 pkg install git -y
+```
+```bash
 git clone [https://github.com/YOUR_USERNAME/qdl-termux-no-root](https://github.com/YOUR_USERNAME/qdl-termux-no-root)
+```
+```bash
 cd qdl-termux-no-root
+```
+```bash
 chmod +x setup.sh
+```
+```bash
+chmod +x qdl
+```
 ./setup.sh
+```
+```bash
+./qdl
+```
+
+For suggestions and bug reports please contact on sameenataj427@gmail.com. thank you
