@@ -1,4 +1,8 @@
 # qdl-termux-no-root
+> [!CAUTION]
+> **WARNING: This tool deals with low-level device partitions. Incorrect usage can permanently HARD BRICK your device. This tool is currently in BETA TESTING. I am not responsible for any damages, data loss, or bricked phones resulting from its use. Proceed at your own risk and with extreme caution. Always backup your boot and vbmeta partitions before making changes.**
+> 
+
 # 🚀 QDL-Termux: Non-Root Qualcomm EDL 9008 Flasher
 
 **QDL-Termux** is a 100% Non-Root tool for flashing Qualcomm devices in **EDL 9008 Mode** using Termux and an OTG cable. No PC or Root access required.
