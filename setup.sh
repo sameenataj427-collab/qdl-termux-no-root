@@ -19,8 +19,9 @@ if [ -f "qdl" ]; then
     echo "🔧 Patching qdl binary to use $TARGET_LIB..."
     chmod +x qdl
     patchelf --replace-needed libxml2.so.2 "$TARGET_LIB" qdl
+    mv qdl $PREFIX/bin/qdl
     echo "✅ Success! QDL is ready."
-    echo "👉 Use './qdl' to start."
+    echo "👉 Use 'qdl' to start."
 else
     echo "❌ Error: 'qdl' binary not found in this folder."
 fi
