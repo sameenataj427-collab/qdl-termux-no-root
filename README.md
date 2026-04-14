@@ -29,10 +29,9 @@ fastboot oem edl
 
 ---
 
-## 🛠️ Installation & Setup
+# Guid To Install The Tool 👇👇
 
-Follow these steps exactly to install and fix library errors automatically:
-Install Termux and Termux:api from GitHub or Fdroid, don't ise Termux from playstore, its an older version and laks the nassacary pakages needed for the tool
+First install Termux and Termux:api from Fdroid or GitHub, dont use termux from playstore, that is a outdated version and it doesn't have the nessary pakages for the tool to run
 
 # Give termux storage permission and update packages
 ```bash
